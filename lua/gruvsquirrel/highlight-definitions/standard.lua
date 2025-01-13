@@ -18,7 +18,7 @@ local M = {
       { { g.DiffDelete }, d.borage },
       { { g.DiffText }, d.flip_nut },
       { { g.NonText, g.Whitespace }, d.calend },
-      { { g.EndOfBuffer }, d.onlike },
+      { { g.EndOfBuffer }, d.nopecila },
       { { g.TermCursorNC }, d.calendula },
       { { g.Folded }, d.caraway },
       { { g.FoldColumn, g.CursorLineFold }, d.cashew },

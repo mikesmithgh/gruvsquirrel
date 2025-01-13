@@ -54,6 +54,7 @@ local M = {
       onlike = { fg = c.scrat_1 },
       whatdoo = { fg = c.scrat_6, bg = c.rocky_1, bold = true },
       cilantro = { fg = c.sally_0, bg = c.scrat_0 },
+      nopecila = { fg = c.scrat_1, bg = c.scrat_0 },
       coconut = { fg = c.sally_0, bg = c.scrat_6 },
       cola_nut = { fg = c.rocky_4, bg = c.scrat_0 },
       dowatnut = { fg = c.rocky_4, bg = c.scrat_6 },
